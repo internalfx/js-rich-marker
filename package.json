@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/googlemaps/js-rich-marker.git"
+    "url": "https://github.com/googlemaps/js-rich-marker.git"
   },
   "keywords": [
     "google",
